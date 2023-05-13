@@ -14,6 +14,11 @@ As of now, only Linux and macOS are supported.
 
 Install any packages that may be missing.
 
+
+## Data
+Download the 'data' folder inside 'preprocessed_data' folder from osf and store in the root directory of the project.
+Link: https://osf.io/hca7b/
+
 ## Running the code.
 The starting point of the code is the classification/cluster_analysis_perm_reg_overlap.py file.
 ```
